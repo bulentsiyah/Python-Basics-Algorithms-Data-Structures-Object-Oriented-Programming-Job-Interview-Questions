@@ -144,6 +144,7 @@ I'm just a porter, most of them are borrowing from others
     
 ~~#### Q18 What are categorical variables?~~
 
+>Best Question
 #### Q19 A test has a true positive rate of 100% and false positive rate of 5%. There is a population with a 1/1000 rate of having the condition the test identifies. Considering a positive test, what is the probability of having that condition?
 
     Let’s suppose you are being tested for a disease, if you have the illness the test will end up saying you 
@@ -502,8 +503,9 @@ In addition to above mentioned quantitative metrics you should also check for-
 #### Q59 In experimental design, is it necessary to do randomization? If yes, why?
     Normally yes, but never do it for time series dataset.
 
-#### Q60 What do you understand by conjugate-prior with respect to Naïve Bayes?
+~~#### Q60 What do you understand by conjugate-prior with respect to Naïve Bayes?
 
+> Best Question
 #### Q61 Can you cite some examples where a false positive is important than a false negative?
 
     Before we start, let us understand what are false positives and what are false negatives.
@@ -545,6 +547,8 @@ In addition to above mentioned quantitative metrics you should also check for-
     bad customers. In this scenario both the false positives and false negatives become very important 
     to measure.
 
+
+> Best Question
 #### Q64 Can you explain the difference between a Test Set and a Validation Set?
 
     Validation set can be considered as a part of the training set as it is used for parameter selection
@@ -667,7 +671,9 @@ In addition to above mentioned quantitative metrics you should also check for-
     a false alarm (false positives).
     
 ![](https://lh3.googleusercontent.com/zUWYO4VwGpoyu9oygT12F3hgZ30GxVY7sg_ZF46INrNbDutd9mVz9GnYIYGw2r1ZcbPLQXF4HV-uNXvQcVrP7Sg2BDDqRkaY3RAApumdXgH2mQZ8OCSgqqsVl7UDVjqwVFq224Z_)
-    
+
+
+>Best Qustion
 #### Q83 Define precision and recall.
     
     Recall is also known as the true positive rate: the amount of positives your model claims 
@@ -806,6 +812,7 @@ In addition to above mentioned quantitative metrics you should also check for-
     of a model, with results tending to 1 being the best, and those tending to 0 being the worst. You would
     use it in classification tests where true negatives don’t matter much.
 
+> Best Question
 #### Q97 How would you handle an imbalanced dataset?
 
     An imbalanced dataset is when you have, for example, a classification test and 90% of the data is in one
