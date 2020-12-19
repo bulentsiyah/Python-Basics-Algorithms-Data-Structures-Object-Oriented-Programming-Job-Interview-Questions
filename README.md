@@ -5,7 +5,7 @@ Hello, this repo is a repository I've compiled with basic python exercises, algo
 You can find all the resources I used to create the repo in the reference section. Enjoy it
 
 # Folders and Files Tree in this Repo
-![](images/all_files_tree.jpg)
+![](images/python_basic.png)
 
 ## References:
 https://www.udemy.com/course/object-oriented-programming-masterclass-with-python-a-z/
