@@ -8,20 +8,21 @@ You can find all the resources I used to create the repo in the reference sectio
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Folders and Files Tree in this Repo](#folders-and-files-tree-in-this-repo)
-- [📝 License](#-license)
-- [👨‍🚀 Show your support](#-show-your-support)
-- [References:](#references)
-  - [Clean Code](#clean-code)
-  - [Data Structures](#data-structures)
-  - [Interview_Questions](#interview_questions)
+- [Python Basics Algorithms Data-Structures Object Oriented Programming Job Interview Questions](#python-basics-algorithms-data-structures-object-oriented-programming-job-interview-questions)
+  - [Folders and Files Tree in this Repo](#folders-and-files-tree-in-this-repo)
+  - [📝 License](#-license)
+  - [👨‍🚀 Show your support](#-show-your-support)
+  - [References:](#references)
+    - [Clean Code](#clean-code)
+    - [Data Structures](#data-structures)
+    - [Interview_Questions](#interview_questions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## Folders and Files Tree in this Repo
 
-![](images/python_basic.png)
+![](.images/python_basic.png)
 
 ## 📝 License
 
