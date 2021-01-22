@@ -18,12 +18,18 @@ You can find all the resources I used to create the repo in the reference sectio
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-**Table of Contents**
 
-
-# Folders and Files Tree in this Repo
+## Folders and Files Tree in this Repo
 
 ![](images/python_basic.png)
+
+## 📝 License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+
+## 👨‍🚀 Show your support
+
+Give a ⭐️ if this project helped you!
 
 ## References:
 https://www.udemy.com/course/object-oriented-programming-masterclass-with-python-a-z/
@@ -54,12 +60,3 @@ https://github.com/zhiqiangzhongddu/Data-Science-Interview-Questions-and-Answers
 https://www.interviewbit.com/python-interview-questions/
 https://www.techbeamers.com/python-interview-questions-programmers/
 https://www.youtube.com/watch?v=HGXlFG_Rz4E&ab_channel=edureka%21
-
-
-## 📝 License
-
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
-## 👨‍🚀 Show your support
-
-Give a ⭐️ if this project helped you!
