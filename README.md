@@ -8,16 +8,15 @@ You can find all the resources I used to create the repo in the reference sectio
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
 - [References:](#references)
   - [Clean Code](#clean-code)
   - [Data Structures](#data-structures)
   - [Interview_Questions](#interview_questions)
 - [📝 License](#-license)
 - [👨‍🚀 Show your support](#-show-your-support)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+**Table of Contents**
 
 ![](images/python_basic.png)
 
