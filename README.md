@@ -6,7 +6,8 @@ You can find all the resources I used to create the repo in the reference sectio
 
 # Folders and Files Tree in this Repo
 
-
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ![](images/python_basic.png)
 
