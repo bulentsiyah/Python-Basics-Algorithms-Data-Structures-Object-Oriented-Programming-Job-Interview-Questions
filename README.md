@@ -4,8 +4,6 @@ Hello, this repo is a repository I've compiled with basic python exercises, algo
 
 You can find all the resources I used to create the repo in the reference section. Enjoy it
 
-# Folders and Files Tree in this Repo
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -20,6 +18,9 @@ You can find all the resources I used to create the repo in the reference sectio
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 **Table of Contents**
+
+
+# Folders and Files Tree in this Repo
 
 ![](images/python_basic.png)
 
