@@ -9,13 +9,18 @@ You can find all the resources I used to create the repo in the reference sectio
 **Table of Contents**
 
 - [Folders and Files Tree in this Repo](#folders-and-files-tree-in-this-repo)
-  - [Python](#python)
-  - [Algorithms](#algorithms)
+  - [📂Git Handbook](#git-handbook)
+  - [📂Job Interview Questions](#job-interview-questions)
+  - [📂Object Oriented Programming](#object-oriented-programming)
+  - [📂Python](#python)
+  - [📂Clean Code](#clean-code)
+  - [📂Data Structures](#data-structures)
+  - [📂Algorithms](#algorithms)
 - [📝 License](#-license)
 - [👨‍🚀 Show your support](#-show-your-support)
 - [References:](#references)
-  - [Clean Code](#clean-code)
-  - [Data Structures](#data-structures)
+  - [Clean Code](#clean-code-1)
+  - [Data Structures](#data-structures-1)
   - [Interview_Questions](#interview_questions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
