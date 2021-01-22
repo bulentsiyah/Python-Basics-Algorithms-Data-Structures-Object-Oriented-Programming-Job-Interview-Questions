@@ -10,6 +10,8 @@ You can find all the resources I used to create the repo in the reference sectio
 
 - [Python Basics Algorithms Data-Structures Object Oriented Programming Job Interview Questions](#python-basics-algorithms-data-structures-object-oriented-programming-job-interview-questions)
   - [Folders and Files Tree in this Repo](#folders-and-files-tree-in-this-repo)
+    - [Python](#python)
+    - [Algorithms](#algorithms)
   - [📝 License](#-license)
   - [👨‍🚀 Show your support](#-show-your-support)
   - [References:](#references)
@@ -21,6 +23,123 @@ You can find all the resources I used to create the repo in the reference sectio
 
 
 ## Folders and Files Tree in this Repo
+
+### Python
+📦Python
+ ┗ 📜python-exercise.ipynb
+ 
+### Algorithms
+📦Algorithms
+ ┣ 📂Graphs and Graph Algorithms
+ ┃ ┣ 📂breadth-first-search
+ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┣ 📜main.py
+ ┃ ┃ ┗ 📜queue.py
+ ┃ ┣ 📂cycle-detection
+ ┃ ┃ ┣ 📂cycle-detection-directed-graph
+ ┃ ┃ ┃ ┣ 📜Graph directed cycle.png
+ ┃ ┃ ┃ ┣ 📜Graph directed no cycle.png
+ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┗ 📜main.py
+ ┃ ┃ ┣ 📂cycle-detection-undirected-graph
+ ┃ ┃ ┃ ┣ 📜Graph undirected.png
+ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┗ 📜main.py
+ ┃ ┃ ┗ 📜Cycle.md
+ ┃ ┣ 📂depth-first-search
+ ┃ ┃ ┣ 📂depth-first-search
+ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┣ 📜main.py
+ ┃ ┃ ┃ ┗ 📜stack.py
+ ┃ ┃ ┗ 📂depth-first-search-recursive
+ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┗ 📜main.py
+ ┃ ┣ 📂graphs
+ ┃ ┃ ┣ 📂dijkstra
+ ┃ ┃ ┃ ┣ 📂matrix-impl
+ ┃ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┃ ┣ 📜main.py
+ ┃ ┃ ┃ ┃ ┗ 📜vertex.py
+ ┃ ┃ ┃ ┗ 📂priority-queue-impl-adjacency-map
+ ┃ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┃ ┣ 📜main.py
+ ┃ ┃ ┃ ┃ ┣ 📜priorityqueue.py
+ ┃ ┃ ┃ ┃ ┗ 📜vertex.py
+ ┃ ┃ ┣ 📂is-graph-bipartite
+ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┣ 📜main.py
+ ┃ ┃ ┃ ┗ 📜queue.py
+ ┃ ┃ ┗ 📂prims-algorithm
+ ┃ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┃ ┣ 📜main.py
+ ┃ ┃ ┃ ┣ 📜priorityqueue.py
+ ┃ ┃ ┃ ┗ 📜vertex.py
+ ┃ ┗ 📂topological-sorting
+ ┃ ┃ ┣ 📜graph.py
+ ┃ ┃ ┗ 📜main.py
+ ┣ 📂Sorting and Searching
+ ┃ ┣ 📂hashing
+ ┃ ┃ ┣ 📜HashMap.py
+ ┃ ┃ ┗ 📜HashMapChaining.py
+ ┃ ┣ 📂searching
+ ┃ ┃ ┣ 📂binary search
+ ┃ ┃ ┃ ┣ 📜iterative.py
+ ┃ ┃ ┃ ┣ 📜recursive-no-slicing.py
+ ┃ ┃ ┃ ┗ 📜recursive.py
+ ┃ ┃ ┣ 📂sequential search
+ ┃ ┃ ┃ ┣ 📜ordered-list.py
+ ┃ ┃ ┃ ┗ 📜unordered-list.py
+ ┃ ┃ ┣ 📜binary-search-iterative.py
+ ┃ ┃ ┣ 📜binary-search-recursive-pointers.py
+ ┃ ┃ ┣ 📜binary-search-recursive.py
+ ┃ ┃ ┣ 📜sequential-search-ordered-list.py
+ ┃ ┃ ┗ 📜sequential-search-unordered-list.py
+ ┃ ┗ 📂sorting
+ ┃ ┃ ┣ 📂bubble sort
+ ┃ ┃ ┃ ┣ 📜bubble-sort-recursive.py
+ ┃ ┃ ┃ ┣ 📜bubble-sort.py
+ ┃ ┃ ┃ ┗ 📜short-bubble.py
+ ┃ ┃ ┣ 📂heapsort
+ ┃ ┃ ┃ ┣ 📜binaryheap.py
+ ┃ ┃ ┃ ┗ 📜main.py
+ ┃ ┃ ┣ 📂insertion sort
+ ┃ ┃ ┃ ┗ 📜insertion-sort.py
+ ┃ ┃ ┣ 📂merge sort
+ ┃ ┃ ┃ ┣ 📜merge-sort-return-list.py
+ ┃ ┃ ┃ ┗ 📜merge-sort.py
+ ┃ ┃ ┣ 📂quicksort
+ ┃ ┃ ┃ ┣ 📜quick-sort-return-list.py
+ ┃ ┃ ┃ ┗ 📜quicksort.py
+ ┃ ┃ ┗ 📂selection sort
+ ┃ ┃ ┃ ┗ 📜selection-sort.py
+ ┗ 📂Trees and Tree Algorithms
+ ┃ ┣ 📂avl tree
+ ┃ ┃ ┣ 📜avl.py
+ ┃ ┃ ┗ 📜treenode.py
+ ┃ ┣ 📂binary heap
+ ┃ ┃ ┗ 📜binary-heap.py
+ ┃ ┣ 📂bst
+ ┃ ┃ ┣ 📜bst.py
+ ┃ ┃ ┗ 📜treenode.py
+ ┃ ┣ 📂list representation
+ ┃ ┃ ┗ 📜tree.py
+ ┃ ┣ 📂nodes representation
+ ┃ ┃ ┣ 📜exercise.py
+ ┃ ┃ ┗ 📜tree.py
+ ┃ ┣ 📂parse tree
+ ┃ ┃ ┣ 📜main.py
+ ┃ ┃ ┣ 📜stack.py
+ ┃ ┃ ┗ 📜tree.py
+ ┃ ┣ 📂tree
+ ┃ ┃ ┗ 📜tree.py
+ ┃ ┗ 📂tree traversal
+ ┃ ┃ ┣ 📜exercise01-methods.py
+ ┃ ┃ ┣ 📜exercise02-functions.py
+ ┃ ┃ ┣ 📜exercise03-postorder.py
+ ┃ ┃ ┣ 📜exercise04-inorder.py
+ ┃ ┃ ┣ 📜preorder-indentation.py
+ ┃ ┃ ┣ 📜stack.py
+ ┃ ┃ ┗ 📜tree.py
 
 ![](.images/python_basic.png)
 
