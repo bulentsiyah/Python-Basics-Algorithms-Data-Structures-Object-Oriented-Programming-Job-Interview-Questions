@@ -1,4 +1,4 @@
-# Python Basics Algorithms Data-Structures Object Oriented Programming Job Interview Questions
+# Python Basics, Algorithms, Data Structures, Object Oriented Programming, Job Interview Questions
 
 Hello, this repo is a repository I've compiled with basic python exercises, algorithms, data structures, object-oriented programming, questions in job interviews (on data science, machine learning and deep learning), clean code and git usage.  
 
@@ -6,7 +6,7 @@ You can find all the resources I used to create the repo in the reference sectio
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+# **Table of Contents**
 
 - [Folders and Files Tree in this Repo](#folders-and-files-tree-in-this-repo)
   - [📂Git Handbook](#git-handbook)
